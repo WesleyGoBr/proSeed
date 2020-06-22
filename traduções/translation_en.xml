@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>WesleyGoBr</translationContributors>
+
+    <texts>
+        <!--Inputs-->
+        <text name="input_PS_SET_HALF_SIDE_SHUTOFF" text="PS: Alternar desligamento lateral"/>
+        <text name="input_PS_SET_LANES_TILL_TRAMLINE" text="PS: Definir distância da linha do bonde"/>
+        <text name="input_PS_TOGGLE_MOUSE_CURSOR" text="PS: Alternar cursor do mouse"/>
+
+        <!--Actions-->
+        <text name="action_toggleMouseCursor" text="Alternar cursor do mouse"/>
+        <text name="action_toggleHalfSideShutoff" text="Alternar desligamento parcial"/>
+        <text name="action_setTramlineDistance" text="Definir distância da linha do bonde"/>
+        <text name="action_setTramline" text="Definir linha de bonde"/>
+
+        <!--Info-->
+        <text name="info_mode_header" text="Modo"/>
+        <text name="info_tramline_distance_header" text="Distancia"/>
+        <text name="info_line_number_header" text="Rastrear"/>
+
+        <text name="info_mode_auto" text="Auto"/>
+        <text name="info_mode_semi" text="Semi"/>
+        <text name="info_mode_manual" text="Manual"/>
+
+        <!--Warnings-->
+        <text name="warning_gpsNotActive" text="O GPS não está ativo neste veículo!"/>
+    </texts>
+</l10n>
